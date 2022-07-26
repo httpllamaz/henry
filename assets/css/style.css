@@ -1,0 +1,21 @@
+body {
+    font-family: monospace;
+    width: 50vw;
+    margin: auto;
+    height: auto;
+    background-color: black;
+    border-radius: 16px;
+    color: white;
+    padding: 16px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    font-size: 20px;
+    border-style: solid;
+    border-color: #414141;
+    border-width: 3px;
+    border-radius: 16px;
+    padding: 8px;
+}
